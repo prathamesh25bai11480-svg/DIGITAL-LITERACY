@@ -1,1 +1,55 @@
+Task 4 – Professional Email Drafts
+====================================
 
+EMAIL 1 – Request for Assignment Deadline Extension
+
+To: professor.name@vitbhopal.ac.in
+Subject: Request for Assignment Submission Extension – Tejas Agrawal – 25BSA10178
+
+Dear Prof. XYZ,
+
+I hope this email finds you well. I am Tejas Agrawal, a first year 
+B.Tech student (Registration No.: 25BSA10178, Branch: CSE Cloud 
+Computing) enrolled in your course.
+
+I am writing to respectfully request a short extension of 2-3 days 
+for the assignment submission. Due to an unexpected situation, I have 
+been unable to complete the assignment to the standard I aim to maintain.
+
+I have already made significant progress and am confident I can submit 
+quality work within the extended timeframe. I sincerely apologise for 
+any inconvenience this may cause.
+
+Thank you for your time and understanding.
+
+Regards,
+Tejas Agrawal
+25BSA10178
+B.Tech CSE (Cloud Computing), First Year
+VIT Bhopal University
+
+
+EMAIL 2 – Summer Internship Application
+
+To: hr@companyname.com
+Subject: Application for Summer Internship – Tejas Agrawal | B.Tech CSE | VIT Bhopal
+
+Dear Hiring Team,
+
+I am Prathamesh, a first year B.Tech student majoring in CSE 
+(AI/ML) at VIT Bhopal University (Expected Graduation: 2029).
+
+I am writing to express my keen interest in a summer internship 
+opportunity at your organisation. I am currently building foundational 
+skills in programming and cloud technologies and I am eager to gain 
+hands-on industry experience.
+
+I would welcome the opportunity to contribute to your team this summer. 
+Please feel free to contact me at your convenience.
+
+Thank you for considering my application.
+
+Regards,
+Prathamesh
+25BAI11480 | B.Tech CSE (AI/ML), First Year
+VIT Bhopal University
