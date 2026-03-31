@@ -44,6 +44,6 @@ Report it immediately — the faster you act the better
 - Save all screenshots and transaction IDs as proof
 
 ---
-Tejas Agrawal | 25BSA10178 | VIT Bhopal University
+Prathamesh | 25BAI11480 | VIT Bhopal University
 CSE0001 – Digital Literacy
 
